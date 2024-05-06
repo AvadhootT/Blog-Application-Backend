@@ -1,0 +1,9 @@
+
+//databse user
+Username admin
+Password admin
+
+
+npm install mongodb
+
+connection string = mongodb+srv://<username>:<password>@blogapp.cnib9pq.mongodb.net/?retryWrites=true&w=majority&appName=BlogApp
